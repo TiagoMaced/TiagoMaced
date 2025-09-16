@@ -9,14 +9,14 @@ Sou um desenvolvedor Java com pós-graduação em desenvolvimento de sistemas. A
 Aqui estão algumas das minhas principais habilidades e ferramentas que utilizo em meus projetos:
 
 **Linguagens de Programação:**
-- Java ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- Java 
 - SQL
 
 **Ferramentas e Tecnologias:**
 - Git & GitHub
 - IntelliJ IDEA
 - Vs Code
-- Spring Boot (em aprendizado) ![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=black)
+- Spring Boot (em aprendizado) 
 
 **Conceitos de Programação:**
 - Programação Orientada a Objetos (POO)
