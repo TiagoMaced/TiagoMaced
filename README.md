@@ -11,6 +11,7 @@ Aqui estão algumas das minhas principais habilidades e ferramentas que utilizo 
 **Ferramentas e Tecnologias:**
 - Git & GitHub
 - IntelliJ IDEA
+- vs Code
 - Spring Boot
 
 **Conceitos de Programação:**
