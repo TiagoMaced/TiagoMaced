@@ -1,21 +1,20 @@
-name: Update README
+name: GitHub Profile Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Executa uma vez por dia à meia-noite
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update Profile README
+    name: Update GitHub Profile Readme
     steps:
       - uses: actions/checkout@v2
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anuraghazra/github-readme-stats@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_BY_ME: true
-          SHOW_OS: true
-          SHOW_LOC: true
-          SHOW_PROFILE_VIEWS: true
-          SHOW_COMMIT: true
+          username: TiagoMaced
+          show_icons: true
+          hide_border: true
+          rank_icon: "fa-solid fa-star"
+          cache_seconds: 3600
