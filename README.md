@@ -24,9 +24,7 @@ Aqui estão algumas das minhas principais habilidades e ferramentas que utilizo 
 - Algoritmos
 - Encapsulamento, Herança e Polimorfismo
 
-### Minhas Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiagoMaced&show_icons=true&theme=dark)
 ---
 
 ### Projetos Principais
