@@ -16,7 +16,7 @@ Aqui estão algumas das minhas principais habilidades e ferramentas que utilizo 
 - Git & GitHub
 - IntelliJ IDEA
 - Vs Code
-- Spring Boot (em aprendizado) 
+- Spring Boot
 
 **Conceitos de Programação:**
 - Programação Orientada a Objetos (POO)
