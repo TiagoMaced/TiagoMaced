@@ -3,6 +3,7 @@ name: Update README
 on:
   schedule:
     - cron: '0 0 * * *' # Executa uma vez por dia à meia-noite
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,7 +15,7 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: true
-          SHOW_OS: false
-          SHOW_LOC: false
-          SHOW_PROFILE_VIEWS: false
+          SHOW_OS: true
+          SHOW_LOC: true
+          SHOW_PROFILE_VIEWS: true
           SHOW_COMMIT: true
